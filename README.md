@@ -1,6 +1,6 @@
 # 🐍 Python Karar Yapıları ve Mantıksal Operatör Pratikleri
 
-Bu depo, Python öğrenim sürecimde karar mekanizmaları (`if-elif-else`), mantıksal operatörler ve harici modül kullanımı pratiklerini içeren 7 farklı algoritmayı kapsamaktadır.
+Bu depo, Python öğrenim sürecimde karar mekanizmaları (`if-elif-else`), mantıksal operatörler ve harici modül kullanımı pratiklerini içeren 4 farklı algoritmayı kapsamaktadır.
 
 ## 📦 Proje İçerikleri
 
